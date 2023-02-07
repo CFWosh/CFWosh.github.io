@@ -5,7 +5,7 @@ layout: default
 # CF23-OSHW
 ## Workshop on Open-Source Hardware 
 
-***Co-located with ACM International Conference on Computing Frontiers 2020***
+***Co-located with ACM International Conference on Computing Frontiers 2023***
 ***May 9 - May 11, 2023 - Bologna, Italy***
 
 We are excited to announce a new workshop on the topic of open-source hardware, to be held concurrently with Computing Frontiers 2023.
@@ -22,10 +22,10 @@ The workshop aims to bring together researchers and practitioners working in the
 - Open-source power and energy-efficient systems
 - Hardware security and trust in open-source systems
 
-Submissions should be in the form of an extended abstract (6 pages), formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted abstracts will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract is required to register for the whole Computing Frontiers 2023 conference.
+Submissions should be in the form of an extended abstract (2 pages), formatted according to the double-column ACM conference format, accompanied by a link to a public repository (GitHub, etc.). Accepted abstracts will be included in the workshop proceedings and published in the ACM Digital Library. At least one author of an accepted abstract is required to register for the whole Computing Frontiers 2023 conference.
 
 #### Submission page and information
-Submit at [<ADD LINK>](<ADD LINK>).
+Submit at https://easychair.org/my/conference?conf=oshw23.
 
 Proceedings from the workshop will be published by ACM along with regular Computing Frontiers papers.
 
