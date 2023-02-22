@@ -5,7 +5,7 @@ layout: default
 # CF23-OSHW
 ## Workshop on Open-Source Hardware 
 
-***Co-located with ACM International Conference on Computing Frontiers 2020***
+***Co-located with ACM International Conference on Computing Frontiers 2023***
 ***May 9 - May 11, 2023 - Bologna, Italy***
 
 We are excited to announce a new workshop on the topic of open-source hardware, to be held concurrently with Computing Frontiers 2023.
