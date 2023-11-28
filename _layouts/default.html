@@ -20,6 +20,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        {% if site.tristan_logo %}
+          <img src="{{site.tristan_logo | relative_url}}" alt="Tristan_logo" />
+        {% endif}
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -46,7 +50,7 @@
       <footer>
         {% if site.github.is_project_page %}
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> &mdash; Logo courtesy of <a href="https://www.flickr.com/photos/mikemacmarketing/">Mike MacKenzie</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> &mdash;_layouts/default.html </p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
